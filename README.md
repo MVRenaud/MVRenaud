@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-ExpressJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-sql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-NoSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-GraphQL-Apollo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Next.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Screenshot from 2022-01-13 14-49-02](https://user-images.githubusercontent.com/79979470/149342218-da3ceb53-e59d-4c40-8cc3-fbfe8232e5dd.png)
