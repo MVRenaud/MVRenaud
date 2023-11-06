@@ -1,6 +1,5 @@
 ### Hi there 👋
 _My name is Matheus Vegele Renaud & I'm a Web Developer. I graduate at DCI Digital Career Institute, as a fullstack Developer in april of 2022._
-_Since June I work at Adesso.SE as a frontend developer._
 <!--
 **MVRenaud/MVRenaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
